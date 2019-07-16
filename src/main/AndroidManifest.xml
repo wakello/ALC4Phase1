@@ -12,10 +12,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".AboutALC"
-            android:label="@string/title_activity_about_alc"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity
             android:name=".About"
             android:label="@string/title_activity_about"
             android:theme="@style/AppTheme.NoActionBar" />
